@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.wwt.tools</groupId>
-    <artifactId>sorting</artifactId>
+    <artifactId>basictools</artifactId>
     <version>0.1</version>
     <packaging>jar</packaging>
 

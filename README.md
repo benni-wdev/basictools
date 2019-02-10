@@ -1,4 +1,4 @@
-Basic tools package 
+Basic tools package implemented with generic classes
 
 graph package including directed graph implementation based on Hashmap 
 Algorithms: Dijkstra, BFS, DFS

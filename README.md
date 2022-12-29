@@ -9,3 +9,7 @@ Searchtree package with Binary search tree implementation
 
 sort package with 
 Bubble sort, Heap sort, Insertion sort, Merge sort and Quick sort
+
+--------------------------------------
+benni-wdev
+[https://www.wdev.ch](https://www.wdev.ch/)
